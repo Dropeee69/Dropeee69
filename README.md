@@ -23,7 +23,7 @@
 ---
 
 📫 Como falar comigo:
-- Email: seuemail@gmail.com
+- Email: pedrohenriquesalvador069@gmail.com
 - LinkedIn: [Pedro Henrique Salvador](www.linkedin.com/in/pedrohsalvador305440)
 - WhatsApp: [clique aqui para conversar](https://wa.me/+5549999384910)
 
