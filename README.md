@@ -1,6 +1,6 @@
 👋 Olá! Eu sou o Dropeee69
 
-🎓 Atualmente estudante de Engenharia de Computação (3ª fase) e explorando o mundo da automação com Python.  
+🎓 Atualmente estudante de Engenharia de Computação (4ª fase) e explorando o mundo da automação com Python.  
 🚀 Apaixonado por resolver problemas do dia a dia com scripts inteligentes e ferramentas práticas.  
 📈 Em busca de oportunidades como freelancer, especialmente em projetos de automação, web scraping e bots simples.  
 
